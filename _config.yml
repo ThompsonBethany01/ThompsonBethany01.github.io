@@ -12,6 +12,6 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Bethany Thompson, Data Scientist"
+title:		           "Bethany Thompson"
 description:	       "Powered by Jekyll and GitHub Pages"
 author:              "Paul Le"
