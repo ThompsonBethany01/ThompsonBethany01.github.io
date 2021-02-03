@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Canva 101"
+---
+
+This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P).
+
+#### What is Canva?
+Canva is a user friendly, graphic design platform with no paid subscription necessary. 
+Users can create various designs from scratch, such as presentations, infographics, and social media headers.
+
+#### Canva + Data Science
+Because there are so many design options in Canva, it can be applied to almost any aspect of the Data Science pipeline. 
+Images are a great way to convey information to the audience that is easy to understand and grab their attention.
+You can create a map of your database showing how the tables interact - an infographic of the key insights - or a presentation of your final conclusions.
+
+#### Cana 101
+For tips on using Canva for Data Science projects, I have created a repository of my favorite tips and tricks I've learned while using the platform myself.
+Click [here](https://github.com/ThompsonBethany01/Canva_101) to visit the repository Canva 101 by me.
