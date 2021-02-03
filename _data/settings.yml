@@ -40,16 +40,19 @@ disqus:
 # About Section
 
 about: >
-  # Bethany Thompson, Data Scientist
+  # Nice to *virtually* meet you!
 
+  #### I'm Bethany Thompson
   I bring a truly creative approach to every challenge both in life and in work. My diverse data science portfolio demonstrates my ability to apply this creativity, whether I’m discovering insights in data or skillfully telling its story through professional quality reports and presentations. My task-oriented nature allows me to consistently complete projects from conception to completion in a timely manner.   
 
+  #### Recreate This Theme
   This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
 contact: >
   # Contact
 
   Feel free to contact me [through my email](mailto:thompson.bethany.01@gmail.com) or [LinkedIn messenger](https://www.linkedin.com/in/bethany-thompson-01/) at any time.
+  I am open to any questions about Data Science or just send me your favorite puns. (I <3 puns)
 
 #-------------------------------
 # Work Section
