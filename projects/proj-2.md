@@ -11,4 +11,4 @@ This team project was our Codeup capstone - a culmination of what we learned dur
 
 Scan the QR code below to isten to the playlist our data was aquired from!  
 
-{% include image.html url="https://github.com/SpotiScryers/SpotiScry" image="projects/proj-2/playlist.gif" %}  
+![playlist](https://github.com/ThompsonBethany01/ThompsonBethany01.github.io/blob/gh-pages/assets/img/projects/proj-2/playlist.gif?raw=true)
