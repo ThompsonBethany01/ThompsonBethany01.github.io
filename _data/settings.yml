@@ -42,7 +42,7 @@ disqus:
 about: >
   # Nice to *virtually* meet you!
 
-  #### I'm Bethany Thompson  
+  #### My name is Bethany Thompson  
   
   I bring a truly creative approach to every challenge both in life and in work. My diverse data science portfolio demonstrates my ability to apply this creativity, whether I’m discovering insights in data or skillfully telling its story through professional quality reports and presentations. My task-oriented nature allows me to consistently complete projects from conception to completion in a timely manner.   
 
@@ -61,7 +61,7 @@ contact: >
 
 projects:
 - {name: 'WiDS Datathon', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Acea Smart Water Analysis', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'SpotiScry', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Office Space', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'FitBit Analysis', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'Telco Churn', folder: 'proj-5', file: 'projects/proj-5.html'}
@@ -74,5 +74,6 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/bethany-thompson-01/'}
 - {icon: 'envelope', link: 'mailto:thompson.bethany.01@gmail.com'}
 - {icon: 'facebook', link: 'https://www.facebook.com/bethany.thompson.902/'}
+- {icon: 'pinterest', link: 'https://www.pinterest.com/thompsonbethany01/_saved/'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
