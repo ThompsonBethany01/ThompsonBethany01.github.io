@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
+- {name: 'About Me', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -40,14 +40,17 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Bethany Thompson, Data Scientist
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  I bring a truly creative approach to every challenge both in life and in work. My diverse data science portfolio demonstrates my ability to apply this creativity, whether I’m discovering insights in data or skillfully telling its story through professional quality reports and presentations. My task-oriented nature allows me to consistently complete projects from conception to completion in a timely manner. 
+
+  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for 
+  starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Feel free to contact me [through my email](mailto:thompson.bethany.01@gmail.com) or [LinkedIn messenger](https://www.linkedin.com/in/bethany-thompson-01/) at any time.
 
 #-------------------------------
 # Work Section
@@ -63,10 +66,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/ThompsonBethany01'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/bethany-thompson-01/'}
+- {icon: 'envelope', link: 'mailto:thompson.bethany.01@gmail.com'}
+- {icon: 'facebook', link: 'https://www.facebook.com/bethany.thompson.902/'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
